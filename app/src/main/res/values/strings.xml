@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Urban Dictionary Demo</string>
+
+    <string name="search_hint">Search Urban Dictionary…</string>
+    <string name="no_results">No Results</string>
+    <string name="no_network_connection">No Network Connection\nOnly Cached Searches Available</string>
+
+    <string name="about">About</string>
+
+    <string name="created_by">Created By: Alex Koch\nDate: 4/2/2019</string>
+
+    <string name="thumb_up_icon_description">Thumb Up</string>
+    <string name="thumb_down_icon_description">Thumb Down</string>
+    <string name="sort_order_image_button_description">Ordering of Search Results</string>
+
+    <string name="sort_by">Sort By</string>
+    <string name="most_thumbs_up">Most Thumbs Up</string>
+    <string name="least_thumbs_up">Least Thumbs Up</string>
+    <string name="most_thumbs_down">Most Thumbs Down</string>
+    <string name="least_thumbs_down">Least Thumbs Down</string>
+</resources>
